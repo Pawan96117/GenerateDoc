@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qweNj9Q4FrKNW3TvmAkmZHw1yV/xGNjkUc5IsYKuBvafeMoOUDkFytcCrCsfPQ31Xz21cNDrVc2pokpAaUuf9g==",
+  "success": true,
+  "projectFilePath": "D:\\GenerateDoc\\GenerateDocument\\GenerateDocument\\GenerateDocument.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pawan Kumar\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Pawan Kumar\\.nuget\\packages\\syncfusion.compression.net.core\\20.3.0.57\\syncfusion.compression.net.core.20.3.0.57.nupkg.sha512",
+    "C:\\Users\\Pawan Kumar\\.nuget\\packages\\syncfusion.docio.net.core\\20.3.0.57\\syncfusion.docio.net.core.20.3.0.57.nupkg.sha512",
+    "C:\\Users\\Pawan Kumar\\.nuget\\packages\\syncfusion.licensing\\20.3.0.57\\syncfusion.licensing.20.3.0.57.nupkg.sha512",
+    "C:\\Users\\Pawan Kumar\\.nuget\\packages\\syncfusion.officechart.net.core\\20.3.0.57\\syncfusion.officechart.net.core.20.3.0.57.nupkg.sha512",
+    "C:\\Users\\Pawan Kumar\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
